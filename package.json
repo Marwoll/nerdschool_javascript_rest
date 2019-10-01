@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Marwoll/nerdschool_javascript_rest/issues"
   },
-  "homepage": "https://github.com/Marwoll/nerdschool_javascript_rest#readme"
+  "homepage": "https://github.com/Marwoll/nerdschool_javascript_rest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
