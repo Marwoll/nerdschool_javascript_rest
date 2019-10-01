@@ -1,0 +1,19 @@
+{
+  "name": "nerdschool_javascript_rest",
+  "version": "1.0.0",
+  "description": "Nerdschool javascript and REST tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marwoll/nerdschool_javascript_rest.git"
+  },
+  "author": "Sivert Stavland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marwoll/nerdschool_javascript_rest/issues"
+  },
+  "homepage": "https://github.com/Marwoll/nerdschool_javascript_rest#readme"
+}
